@@ -22,4 +22,5 @@
 
 # 타이타닉호 colab 분석
 
-https://colab.research.google.com/drive/1wkFDrgWHKJ_-vp3ctb4KKiFeSkt3TVHh?hl=ko#scrollTo=smMQlsyoNWXm
+[[https://colab.research.google.com/drive/1wkFDrgWHKJ_-vp3ctb4KKiFeSkt3TVHh?hl=ko#scrollTo=smMQlsyoNWXm
+](https://colab.research.google.com/drive/1M7pDCUFvCFDGGWkCc0eQDOkVkkBCKg46?usp=sharing)](https://colab.research.google.com/drive/1M7pDCUFvCFDGGWkCc0eQDOkVkkBCKg46?usp=sharing)
